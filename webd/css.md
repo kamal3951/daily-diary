@@ -7,4 +7,3 @@
 6. Multiple Classes on diff element(ele1 decendent to ele2) - .class1 .class2
 7. Id Selector - #id-name
 8. Element with attribute - input[attribute-name="value-name"]
-9. 
